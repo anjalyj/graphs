@@ -1,0 +1,28 @@
+{
+  "name": "graphs",
+  "version": "1.0.0",
+  "description": "A set of javascript tests designed to get you to implement graphs.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "mocha --recursive tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjalyj/graphs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjalyj/graphs/issues"
+  },
+  "homepage": "https://github.com/anjalyj/graphs#readme"
+}
